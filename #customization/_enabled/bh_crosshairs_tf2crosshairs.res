@@ -523,5 +523,17 @@ Scheme
                 "outline"       "1"
             }
         }
+		
+		"CrosshairsOutline16"					//1.1; 1.2; 1.3; 1.5; 
+		{
+			"1"
+			{
+				"name"			"xhairs"
+				"tall"			"16"
+				"antialias"		"0"
+				"additive"		"0"
+				"outline"		"1"
+			}
+		}
     }
 }

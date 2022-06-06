@@ -1,5 +1,22 @@
 "Resource/HudLayout.res"
 {
+	SmallCross				//1.5
+	{
+		"controlName"		"CExLabel"
+		"fieldName"			"SmallCross"
+		"visible"			"1"
+		"enabled"			"1"
+		"zpos"				"2"
+		"xpos"				"c-100"
+		"ypos"				"c-103"
+		"wide"				"201"
+		"tall"				"204"
+		"font"				"CrosshairsOutline16"
+		"labelText"			"e"
+		"textAlignment"		"center"
+		"fgcolor"			"0 255 255 255"
+	}
+	
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
